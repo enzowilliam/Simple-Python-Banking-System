@@ -12,7 +12,7 @@ Python 3.6 ou superior
 
 Como executar
 1. Clone o repositório ou copie o código para sua máquina local.
-  git clone https://github.com/seu-usuario/simple-python-banking-system.git
+  git clone https://github.com/enzowilliam/Simple-Python-Banking-System.git
 
 2. Navegue até o diretório do projeto.
   cd simple-python-banking-system
